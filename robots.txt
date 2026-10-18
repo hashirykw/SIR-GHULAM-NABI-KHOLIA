@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ghulam-nabi-kholia.nexlyr.solutions/sitemap.xml
