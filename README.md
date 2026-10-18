@@ -24,7 +24,7 @@ Every page also has light and dark themes, a `/` or Ctrl K search over pages, to
 1. **WhatsApp number — needed.** No public number was found. Until one is added, every WhatsApp button opens WhatsApp with the message written and lets the visitor pick the chat. To add it, set `wa: '92XXXXXXXXXX'` and `waDisplay` in the `window.SITE` block at the bottom of every HTML file (find `wa: ''` and replace).
 2. **YouTube and Facebook links.** The exact channel and page URLs weren’t available, so these currently open a search for his name. Find and replace `https://www.youtube.com/results?search_query=Ghulam+Nabi+Kholia` and the Facebook search URL with his real links.
 3. **Hexis College** and **commerce faculty** come from a Hexis College poster for his O and A Level Accounts classes (2022 session). Confirm where he teaches now and add colleges if needed.
-4. **Photo.** Taken from a public video frame, so it is low resolution. A sharp portrait will look much better.
+4. **Photo.** The studio portrait is on the home hero, the about page and the share image.
 5. **Fees and timings** are never shown; every such question goes to WhatsApp.
 6. **Domain.** Canonical links, sitemap and robots use `https://ghulam-nabi-kholia.nexlyr.solutions`. Find and replace if you use another domain.
 
